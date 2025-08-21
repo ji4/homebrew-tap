@@ -1,8 +1,8 @@
 class Mdtable < Formula
   desc "Convert Markdown tables to HTML with support for nested lists"
   homepage "https://github.com/ji4/markdown-table-formatter"
-  url "https://github.com/ji4/markdown-table-formatter/archive/v1.0.2.tar.gz"
-  sha256 "fffcd16da3846c1b7ec3a70a01409534fa6b5d50573dfaa0de42f19c927b3351"
+  url "https://github.com/ji4/markdown-table-formatter/archive/v1.0.3.tar.gz"
+  sha256 "3bc47ef2f65de40fd691649d4b4490118e98b38e6dbb8023b83b9ceed22df311"
   license "MIT"
   
   depends_on "perl"
